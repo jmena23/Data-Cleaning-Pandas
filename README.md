@@ -1,5 +1,7 @@
-# data-cleaning-pandas
-Primer proyecto Ironhack: limpieza y análisis de dataset
+# Data-Cleaning-Pandas
+Primer proyecto Ironhack: limpieza y análisis de un dataset
+
+![gran-tiburon-blanco](https://user-images.githubusercontent.com/61025562/92304707-3014b980-ef78-11ea-8d8a-c286baf4ff3c.jpg)
 
 El objetivo de este proyecto es realizar el análisis de un dataset dado (attacks.csv). Para ello, los pasos que se han seguido son los siguientes:
 
